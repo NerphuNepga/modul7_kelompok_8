@@ -11,4 +11,9 @@ Console.WriteLine();
 TeamMembers103022300050.ReadJSON();
 Console.WriteLine();
 GlossaryItem103022300050.ReadJSON();
+DataMahasiswa103022300041.ReadJSON();
+Console.WriteLine();
+TeamMembers103022300041.ReadJSON();
+Console.WriteLine();
+GlossaryItem103022300041.ReadJSON();
 
