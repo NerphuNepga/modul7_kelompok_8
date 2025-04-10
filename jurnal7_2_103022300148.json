@@ -1,0 +1,32 @@
+{
+  "members" : [
+    {
+       "firstName": "Adrian",
+       "lastName": "Putra P.",
+       "gender": "Laki - Laki",
+       "age": 19,
+       "nim": "103022300041"
+    },
+    {
+       "firstName": "M. Arrayan",
+       "lastName": "Fikri",
+       "gender": "Laki - Laki",
+       "age": 20,
+       "nim": "103022300050"
+    },
+    {
+       "firstName": "Yappier",
+       "lastName": "Albertus F.K.P",
+       "gender": "Laki - Laki",
+       "age": 20,
+       "nim": "103022300148"
+    },
+    {
+       "firstName": "Achmad",
+       "lastName": "Maulana A.",
+       "gender": "Laki - Laki",
+       "age": 20,
+       "nim": "103022330157"
+    }
+  ]
+}

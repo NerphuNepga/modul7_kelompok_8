@@ -1,0 +1,15 @@
+{
+   "firstName": "Yappier",
+   "lastName": "Albertus",
+   "gender": "Laki - Laki",
+   "age": 20,
+   "address": {
+       "streetAddress": "Sukapura",
+       "city": "Bandung",
+       "state": "Jawa Barat"
+   },
+   "courses": [
+       { "code": "CCK2KAB4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CCK2FAB4", "name": "Arsitektur dan Desain Perangkat Lunak" }
+   ]
+}
