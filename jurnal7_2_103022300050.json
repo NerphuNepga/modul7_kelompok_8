@@ -1,0 +1,32 @@
+{
+  "members" : [
+    {
+       "firstName": "Muhammad",
+       "lastName": "Arrayan Fikri",
+       "gender": "male",
+       "age": 20,
+       "nim": "103022300050"
+    },
+    {
+       "firstName": "Yappier",
+       "lastName": "A.F.K.P.",
+       "gender": "male",
+       "age": 20,
+       "nim": "103022300148"
+    },
+    {
+       "firstName": "Adrian",
+       "lastName": "Putra Perkasa",
+       "gender": "male",
+       "age": 19,
+       "nim": "103022300041"
+    },
+    {
+       "firstName": "Achmad",
+       "lastName": "Maulana Arief",
+       "gender": "male",
+       "age": 19,
+       "nim": "103022330157"
+    }
+  ]
+}
