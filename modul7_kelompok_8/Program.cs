@@ -3,3 +3,5 @@
 DataMahasiswa103022300148.ReadJSON();
 Console.WriteLine();
 TeamMembers103022300148.ReadJSON();
+Console.WriteLine();
+GlossaryItem103022300148.ReadJSON();
